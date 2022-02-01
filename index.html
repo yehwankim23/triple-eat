@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>트리플 잇</title>
+    <link rel="icon" href="icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="scripts/data.js"></script>
+    <script src="scripts/script.js" defer></script>
+  </head>
+  <body>
+    <div class="m-a mb-20 w-80 fd-c">
+      <div class="mt-10 fs-8">트리플 잇</div>
+      <div class="mt-10 w-80 jc-sb">
+        <input id="korean" type="checkbox" checked />
+        <label class="bc-red" for="korean">한식</label>
+        <input id="western" type="checkbox" checked />
+        <label class="bc-orange" for="western">양식</label>
+        <input id="chinese" type="checkbox" checked />
+        <label class="bc-green" for="chinese">중식</label>
+        <input id="japanese" type="checkbox" checked />
+        <label class="bc-blue" for="japanese">일식</label>
+        <input id="other" type="checkbox" checked />
+        <label class="bc-purple" for="other">기타</label>
+      </div>
+      <div id="result" class="mt-10 br-2-5 w-80 h-60 bc-gray fs-6 fd-c">
+        <div class="h-10">베이커리, 카페, 편의점을</div>
+        <div class="h-10">추천받지 않으시려면</div>
+        <div class="h-10">'기타'를 선택 해제하세요</div>
+        <div class="h-10 fs-4">(깐부치킨, 맘스터치, 써브웨이 포함됨)</div>
+      </div>
+      <div class="mt-10">
+        <button>추천받기</button>
+      </div>
+      <div class="mt-10">
+        <a href="https://www.triplestreet.co.kr/all-stores" target="_blank">
+          마지막 업데이트 : 2023년 12월 5일
+        </a>
+      </div>
+      <div class="mt-10">
+        <a class="fs-2" href="https://github.com/yehwankim23/triple-eat" target="_blank">
+          &copy; 2022-2023 김예환 Ye-Hwan Kim (Sam)
+        </a>
+      </div>
+    </div>
+  </body>
+</html>

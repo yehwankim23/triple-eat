@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 4vmin;
+  line-height: 1.25;
+  touch-action: manipulation;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+label,
+button {
+  border-radius: 2.5vmin;
+  height: 10vmin;
+  cursor: pointer;
+}
+
+label {
+  display: inline-flex;
+  width: 15vmin;
+  align-items: center;
+  justify-content: center;
+}
+
+input:not(:checked) + label {
+  background-color: hsl(0, 0%, 75%);
+}
+
+input {
+  display: none;
+}
+
+button {
+  border: none;
+  width: 30vmin;
+  padding: 0;
+  background-color: hsl(0, 0%, 75%);
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 4vmin;
+  line-height: 1.25;
+  color: black;
+}
+
+a {
+  color: #888;
+  text-decoration: none;
+}
+
+.m-a {
+  margin: auto;
+}
+
+.mt-10 {
+  margin-top: 10vmin;
+}
+
+.mb-20 {
+  margin-bottom: 20vmin;
+}
+
+.br-2-5 {
+  border-radius: 2.5vmin;
+}
+
+.w-80 {
+  width: 80vmin;
+}
+
+.h-10 {
+  height: 10vmin;
+}
+
+.h-60 {
+  height: 60vmin;
+}
+
+.bc-blue {
+  background-color: hsl(210, 75%, 75%);
+}
+
+.bc-gray {
+  background-color: hsl(0, 0%, 75%);
+}
+
+.bc-green {
+  background-color: hsl(90, 75%, 75%);
+}
+
+.bc-orange {
+  background-color: hsl(30, 75%, 75%);
+}
+
+.bc-purple {
+  background-color: hsl(270, 75%, 75%);
+}
+
+.bc-red {
+  background-color: hsl(0, 75%, 75%);
+}
+
+.fs-2 {
+  font-size: 2vmin;
+}
+
+.fs-4 {
+  font-size: 4vmin;
+}
+
+.fs-6 {
+  font-size: 6vmin;
+}
+
+.fs-8 {
+  font-size: 8vmin;
+}
+
+.fd-c {
+  flex-direction: column;
+}
+
+.jc-sb {
+  justify-content: space-between;
+}
