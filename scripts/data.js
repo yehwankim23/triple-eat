@@ -26,9 +26,9 @@ const data = {
     },
     {
       "category": 0,
-      "name": "교대이층집",
-      "location": "C동, 2F",
-      "hours": "오전 11:00 ~ 오후 10:00"
+      "name": "구주",
+      "location": "C동, 1F",
+      "hours": "오후 05:00 ~ 익일 02:00"
     },
     {
       "category": 0,
@@ -170,12 +170,6 @@ const data = {
     },
     {
       "category": 0,
-      "name": "제주바다(트리플스트리트)",
-      "location": "C동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
-    },
-    {
-      "category": 0,
       "name": "조명탄",
       "location": "C동, 1F",
       "hours": "오후 03:00 ~ 익일 02:00"
@@ -265,12 +259,6 @@ const data = {
       "name": "99왕돈까스",
       "location": "D동, B1",
       "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 1,
-      "name": "노플렉스 송도",
-      "location": "D동, 2F",
-      "hours": "오전 10:30 ~ 익일 02:00"
     },
     {
       "category": 1,
@@ -370,6 +358,12 @@ const data = {
     },
     {
       "category": 1,
+      "name": "치즈웨이브",
+      "location": "B동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 1,
       "name": "플래터7",
       "location": "C동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -460,6 +454,12 @@ const data = {
       "category": 3,
       "name": "스시로",
       "location": "B동, B3",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 3,
+      "name": "시월십일",
+      "location": "D동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -592,19 +592,13 @@ const data = {
     },
     {
       "category": 4,
-      "name": "바오빙(좋앗나빙수)",
-      "location": "B동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 4,
       "name": "브알라",
       "location": "C동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
       "category": 4,
-      "name": "빌리엔젤",
+      "name": "사르르",
       "location": "A동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
@@ -624,12 +618,6 @@ const data = {
       "category": 4,
       "name": "써브웨이",
       "location": "C동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 4,
-      "name": "여백",
-      "location": "A동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
