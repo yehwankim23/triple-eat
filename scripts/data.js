@@ -176,6 +176,12 @@ const data = {
     },
     {
       "category": 0,
+      "name": "조선팔도",
+      "location": "B동, 2F",
+      "hours": "오전 10:30 ~ 오후 10:30"
+    },
+    {
+      "category": 0,
       "name": "족발야시장",
       "location": "C동, 1F",
       "hours": "오후 03:00 ~ 익일 02:00"
