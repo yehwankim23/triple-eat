@@ -14,6 +14,12 @@ const data = {
     },
     {
       "category": 0,
+      "name": "고기싸롱",
+      "location": "C동, 2F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
       "name": "고래감자탕(TS점)",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -38,9 +44,9 @@ const data = {
     },
     {
       "category": 0,
-      "name": "꽃게옥",
+      "name": "단토리",
       "location": "C동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
+      "hours": "오후 03:30 ~ 익일 02:00"
     },
     {
       "category": 0,
@@ -77,6 +83,12 @@ const data = {
       "name": "문가네 정육식당",
       "location": "D동, 1F",
       "hours": "오후 03:00 ~ 익일 02:00"
+    },
+    {
+      "category": 0,
+      "name": "미락 육회막국수",
+      "location": "C동, B2",
+      "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
       "category": 0,
@@ -160,12 +172,6 @@ const data = {
       "category": 0,
       "name": "장혁민의 부대찌개",
       "location": "B동, B3",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
-      "name": "정우담 소고깃집",
-      "location": "C동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -328,12 +334,6 @@ const data = {
     },
     {
       "category": 1,
-      "name": "엉클인더키친",
-      "location": "C동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 1,
       "name": "예향정",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -408,9 +408,9 @@ const data = {
     },
     {
       "category": 2,
-      "name": "백옥양꼬치2",
-      "location": "C동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
+      "name": "상상첨",
+      "location": "C동, 2F",
+      "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
       "category": 2,
@@ -423,6 +423,12 @@ const data = {
       "name": "차이797",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 2,
+      "name": "천사곱창",
+      "location": "C동, 1F",
+      "hours": "오후 03:00 ~ 익일 02:00"
     },
     {
       "category": 2,
@@ -443,12 +449,6 @@ const data = {
       "name": "규카츠정",
       "location": "C동, B2",
       "hours": "오후 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 3,
-      "name": "부타이 5막",
-      "location": "C동, B2",
-      "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
       "category": 3,
@@ -592,6 +592,12 @@ const data = {
     },
     {
       "category": 4,
+      "name": "메가커피",
+      "location": "A동, B2층",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 4,
       "name": "밀크팜",
       "location": "A동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -628,6 +634,12 @@ const data = {
     },
     {
       "category": 4,
+      "name": "올드페리도넛",
+      "location": "A동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 4,
       "name": "정진원의 커피볶는집",
       "location": "D동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -643,6 +655,12 @@ const data = {
       "name": "컴포즈커피",
       "location": "D동, B1",
       "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 4,
+      "name": "테이블비",
+      "location": "C동, B2",
+      "hours": "오전 10:30 ~ 오후 10:30"
     },
     {
       "category": 4,
