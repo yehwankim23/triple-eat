@@ -176,6 +176,12 @@ const data = {
     },
     {
       "category": 0,
+      "name": "제주세호해장국",
+      "location": "D동 1층",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
       "name": "조명탄",
       "location": "C동, 1F",
       "hours": "오후 03:00 ~ 익일 02:00"
@@ -203,12 +209,6 @@ const data = {
       "name": "참피온삼겹살",
       "location": "B동, 2F",
       "hours": "오전 10:30 ~ 오후 11:00"
-    },
-    {
-      "category": 0,
-      "name": "택이네 조개전골",
-      "location": "D동 1층",
-      "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
       "category": 0,
@@ -420,6 +420,18 @@ const data = {
     },
     {
       "category": 2,
+      "name": "실크로드",
+      "location": "B동, 2F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 2,
+      "name": "이가네 양꼬치",
+      "location": "C동, 1F",
+      "hours": "오후 03:30 ~ 익일 02:00"
+    },
+    {
+      "category": 2,
       "name": "차이797",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -497,6 +509,12 @@ const data = {
       "name": "코코로벤또",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 3,
+      "name": "코코스키",
+      "location": "C동, 2F",
+      "hours": "오후 03:00 ~ 익일 02:00"
     },
     {
       "category": 3,
