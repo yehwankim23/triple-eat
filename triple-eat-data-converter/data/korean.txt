@@ -63,6 +63,14 @@ Coupon Image
 C동, B2
 오전 10:30 ~ 오후 10:00
 Coupon Image
+반궁
+B동, B2
+오전 10:30 ~ 오후 10:00
+Coupon Image
+방배동 할매쭈꾸미
+D동, 1F
+오전 10:30 ~ 오후 10:00
+Coupon Image
 배부장찌개
 C동, 1F
 오전 10:30 ~ 익일 02:00
@@ -107,6 +115,10 @@ Coupon Image
 C동, B2
 오전 10:30 ~ 오후 10:00
 Coupon Image
+우정소갈비
+C동, 1F
+오전 10:30 ~ 오후 10:00
+Coupon Image
 유가네닭갈비
 B동, B3
 오전 10:30 ~ 오후 10:00
@@ -117,10 +129,6 @@ B동, 1F
 Coupon Image
 장혁민의 부대찌개
 B동, B3
-오전 10:30 ~ 오후 10:00
-Coupon Image
-제주세호해장국
-D동 1층
 오전 10:30 ~ 오후 10:00
 Coupon Image
 조명탄
@@ -134,10 +142,6 @@ Coupon Image
 족발야시장
 C동, 1F
 오후 03:00 ~ 익일 02:00
-Coupon Image
-차돌풍
-C동, 1F
-오전 10:30 ~ 익일 02:00
 Coupon Image
 참피온삼겹살
 B동, 2F
@@ -154,10 +158,6 @@ Coupon Image
 하남돼지집
 C동, 1F
 오전 11:00 ~ 오후 10:00
-Coupon Image
-하누로
-B동, 1F
-오후 03:00 ~ 익일 02:00
 Coupon Image
 한끼맛있다
 C동, B2

@@ -92,6 +92,18 @@ const data = {
     },
     {
       "category": 0,
+      "name": "반궁",
+      "location": "B동, B2",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
+      "name": "방배동 할매쭈꾸미",
+      "location": "D동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
       "name": "배부장찌개",
       "location": "C동, 1F",
       "hours": "오전 10:30 ~ 익일 02:00"
@@ -158,6 +170,12 @@ const data = {
     },
     {
       "category": 0,
+      "name": "우정소갈비",
+      "location": "C동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
       "name": "유가네닭갈비",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -172,12 +190,6 @@ const data = {
       "category": 0,
       "name": "장혁민의 부대찌개",
       "location": "B동, B3",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
-      "name": "제주세호해장국",
-      "location": "D동 1층",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -197,12 +209,6 @@ const data = {
       "name": "족발야시장",
       "location": "C동, 1F",
       "hours": "오후 03:00 ~ 익일 02:00"
-    },
-    {
-      "category": 0,
-      "name": "차돌풍",
-      "location": "C동, 1F",
-      "hours": "오전 10:30 ~ 익일 02:00"
     },
     {
       "category": 0,
@@ -227,12 +233,6 @@ const data = {
       "name": "하남돼지집",
       "location": "C동, 1F",
       "hours": "오전 11:00 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
-      "name": "하누로",
-      "location": "B동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
     },
     {
       "category": 0,
@@ -452,12 +452,6 @@ const data = {
   "japanese": [
     {
       "category": 3,
-      "name": "겐텐",
-      "location": "B동, B3",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 3,
       "name": "규카츠정",
       "location": "C동, B2",
       "hours": "오후 10:30 ~ 오후 10:00"
@@ -568,6 +562,12 @@ const data = {
     },
     {
       "category": 4,
+      "name": "그라츠커피랩",
+      "location": "B동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 4,
       "name": "깐부치킨",
       "location": "C동, 2F",
       "hours": "오전 10:30 ~ 익일 02:00"
@@ -582,6 +582,12 @@ const data = {
       "category": 4,
       "name": "데이즈드",
       "location": "B동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 4,
+      "name": "도나스데이",
+      "location": "D동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -658,12 +664,6 @@ const data = {
     },
     {
       "category": 4,
-      "name": "정진원의 커피볶는집",
-      "location": "D동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 4,
       "name": "커피빈",
       "location": "D동, 1F/2F",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -696,12 +696,6 @@ const data = {
       "category": 4,
       "name": "팔공티",
       "location": "D동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 4,
-      "name": "페이브 베이커리",
-      "location": "B동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {

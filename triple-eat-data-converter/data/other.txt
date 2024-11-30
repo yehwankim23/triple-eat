@@ -23,6 +23,10 @@ Coupon Image
 B동, 1F
 오전 10:30 ~ 오후 10:00
 Coupon Image
+그라츠커피랩
+B동, 1F
+오전 10:30 ~ 오후 10:00
+Coupon Image
 깐부치킨
 C동, 2F
 오전 10:30 ~ 익일 02:00
@@ -33,6 +37,10 @@ D동, 1F
 Coupon Image
 데이즈드
 B동, 1F
+오전 10:30 ~ 오후 10:00
+Coupon Image
+도나스데이
+D동, 1F
 오전 10:30 ~ 오후 10:00
 Coupon Image
 디저트39
@@ -83,10 +91,6 @@ Coupon Image
 A동, 1F
 오전 10:30 ~ 오후 10:00
 Coupon Image
-정진원의 커피볶는집
-D동, 1F
-오전 10:30 ~ 오후 10:00
-Coupon Image
 커피빈
 D동, 1F/2F
 오전 10:30 ~ 오후 10:00
@@ -109,10 +113,6 @@ B동, 1F
 Coupon Image
 팔공티
 D동, 1F
-오전 10:30 ~ 오후 10:00
-Coupon Image
-페이브 베이커리
-B동, 1F
 오전 10:30 ~ 오후 10:00
 Coupon Image
 폴바셋
