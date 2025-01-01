@@ -29,6 +29,7 @@ label {
 
 input:not(:checked) + label {
   background-color: hsl(0, 0%, 75%);
+  text-decoration: line-through;
 }
 
 input {
