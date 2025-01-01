@@ -62,12 +62,6 @@ const data = {
     },
     {
       "category": 0,
-      "name": "만석장",
-      "location": "C동, B2",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
       "name": "명동칼국수",
       "location": "C동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -342,12 +336,6 @@ const data = {
       "category": 1,
       "name": "오늘 와인한잔",
       "location": "D동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
-    },
-    {
-      "category": 1,
-      "name": "옥희",
-      "location": "C동, 1F",
       "hours": "오후 03:00 ~ 익일 02:00"
     },
     {
@@ -630,12 +618,6 @@ const data = {
       "category": 4,
       "name": "브알라",
       "location": "C동, B2",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 4,
-      "name": "사르르",
-      "location": "A동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
