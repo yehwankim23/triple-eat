@@ -80,12 +80,6 @@ const data = {
     },
     {
       "category": 0,
-      "name": "미락 육회막국수",
-      "location": "C동, B2",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
       "name": "반궁",
       "location": "B동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -251,12 +245,6 @@ const data = {
       "name": "홍수계찜닭",
       "location": "C동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
-      "name": "화레무",
-      "location": "C동, 2F",
-      "hours": "오후 03:00 ~ 익일 02:00"
     }
   ],
   "western": [
