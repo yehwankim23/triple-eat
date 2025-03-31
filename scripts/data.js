@@ -86,12 +86,6 @@ const data = {
     },
     {
       "category": 0,
-      "name": "방배동 할매쭈꾸미",
-      "location": "D동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
       "name": "배부장찌개",
       "location": "C동, 1F",
       "hours": "오전 10:30 ~ 익일 02:00"
@@ -252,6 +246,12 @@ const data = {
       "category": 1,
       "name": "99왕돈까스",
       "location": "D동, B1",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 1,
+      "name": "더티프라이",
+      "location": "C동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -521,7 +521,7 @@ const data = {
     {
       "category": 4,
       "name": "감성커피",
-      "location": "A동, 2F 데카트론",
+      "location": "A동, 2F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
