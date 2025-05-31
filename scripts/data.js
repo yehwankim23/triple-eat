@@ -20,12 +20,6 @@ const data = {
     },
     {
       "category": 0,
-      "name": "고래감자탕(TS점)",
-      "location": "B동, B3",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
       "name": "고반식당",
       "location": "D동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -51,6 +45,12 @@ const data = {
     {
       "category": 0,
       "name": "담솥",
+      "location": "B동, B3",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
+      "name": "더진국(송도 트리플스트리트점)",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
@@ -221,12 +221,6 @@ const data = {
       "name": "한끼맛있다",
       "location": "C동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
-      "name": "한우굽는 깨비옥",
-      "location": "C동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
     },
     {
       "category": 0,
@@ -470,9 +464,9 @@ const data = {
     },
     {
       "category": 3,
-      "name": "청담이상",
-      "location": "C동, 2F",
-      "hours": "오후 03:00 ~ 익일 02:00"
+      "name": "죠죠",
+      "location": "C동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:30"
     },
     {
       "category": 3,

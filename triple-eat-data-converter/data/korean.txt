@@ -15,10 +15,6 @@ Coupon Image
 C동, 2F
 오전 10:30 ~ 오후 10:00
 Coupon Image
-고래감자탕(TS점)
-B동, B3
-오전 10:30 ~ 오후 10:00
-Coupon Image
 고반식당
 D동, 1F
 오전 10:30 ~ 오후 10:00
@@ -36,6 +32,10 @@ C동, 1F
 오후 03:30 ~ 익일 02:00
 Coupon Image
 담솥
+B동, B3
+오전 10:30 ~ 오후 10:00
+Coupon Image
+더진국(송도 트리플스트리트점)
 B동, B3
 오전 10:30 ~ 오후 10:00
 Coupon Image
@@ -150,10 +150,6 @@ Coupon Image
 한끼맛있다
 C동, B2
 오전 10:30 ~ 오후 10:00
-Coupon Image
-한우굽는 깨비옥
-C동, 1F
-오후 03:00 ~ 익일 02:00
 Coupon Image
 호랭이곳간
 C동, B2
