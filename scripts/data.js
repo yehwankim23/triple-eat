@@ -50,7 +50,7 @@ const data = {
     },
     {
       "category": 0,
-      "name": "더진국(송도 트리플스트리트점)",
+      "name": "더진국",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
@@ -240,6 +240,12 @@ const data = {
       "category": 1,
       "name": "99왕돈까스",
       "location": "D동, B1",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 1,
+      "name": "놉스 송도점",
+      "location": "A동, 4F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
