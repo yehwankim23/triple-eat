@@ -360,12 +360,6 @@ const data = {
     },
     {
       "category": 2,
-      "name": "레드문, 츠츠허허",
-      "location": "C동, 2F",
-      "hours": "오후 03:00 ~ 익일 02:00"
-    },
-    {
-      "category": 2,
       "name": "마라공방",
       "location": "A동, 2F 데카트론",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -375,12 +369,6 @@ const data = {
       "name": "마카오훠궈",
       "location": "B동, 2F",
       "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 2,
-      "name": "백옥양꼬치",
-      "location": "B동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
     },
     {
       "category": 2,
@@ -520,12 +508,6 @@ const data = {
     },
     {
       "category": 4,
-      "name": "감성커피",
-      "location": "A동, 2F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 4,
       "name": "경주십원빵",
       "location": "D동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -551,18 +533,6 @@ const data = {
     {
       "category": 4,
       "name": "더빈",
-      "location": "D동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 4,
-      "name": "데이즈드",
-      "location": "B동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 4,
-      "name": "도나스데이",
       "location": "D동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },

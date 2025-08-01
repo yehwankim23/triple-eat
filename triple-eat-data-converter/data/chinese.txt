@@ -7,10 +7,6 @@ Coupon Image
 D동, B1
 오전 10:30 ~ 오후 10:00
 Coupon Image
-레드문, 츠츠허허
-C동, 2F
-오후 03:00 ~ 익일 02:00
-Coupon Image
 마라공방
 A동, 2F 데카트론
 오전 10:30 ~ 오후 10:00
@@ -18,10 +14,6 @@ Coupon Image
 마카오훠궈
 B동, 2F
 오전 10:30 ~ 오후 10:00
-Coupon Image
-백옥양꼬치
-B동, 1F
-오후 03:00 ~ 익일 02:00
 Coupon Image
 상상첨
 C동, 2F
