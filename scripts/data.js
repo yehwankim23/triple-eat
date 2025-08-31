@@ -44,6 +44,12 @@ const data = {
     },
     {
       "category": 0,
+      "name": "달래해장",
+      "location": "D동 1층",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
       "name": "담솥",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
