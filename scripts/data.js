@@ -8,20 +8,8 @@ const data = {
     },
     {
       "category": 0,
-      "name": "88포차",
-      "location": "B동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
-    },
-    {
-      "category": 0,
       "name": "고기싸롱",
       "location": "C동, 2F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
-      "name": "고반식당",
-      "location": "D동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -111,7 +99,7 @@ const data = {
     {
       "category": 0,
       "name": "삼청동샤브",
-      "location": "A동, 2F 데카트론",
+      "location": "A동, 2F 애슐리",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -170,12 +158,6 @@ const data = {
     },
     {
       "category": 0,
-      "name": "육회본가",
-      "location": "B동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
-    },
-    {
-      "category": 0,
       "name": "장혁민의 부대찌개",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -185,12 +167,6 @@ const data = {
       "name": "조명탄",
       "location": "C동, 1F",
       "hours": "오후 03:00 ~ 익일 02:00"
-    },
-    {
-      "category": 0,
-      "name": "조선팔도",
-      "location": "B동, 2F",
-      "hours": "오전 10:30 ~ 오후 10:30"
     },
     {
       "category": 0,
@@ -286,12 +262,6 @@ const data = {
     },
     {
       "category": 1,
-      "name": "뱅루즈",
-      "location": "C동, 2F",
-      "hours": "오전 10:30 ~ 익일 02:00"
-    },
-    {
-      "category": 1,
       "name": "버커스프롬오스틴",
       "location": "D동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -317,7 +287,13 @@ const data = {
     {
       "category": 1,
       "name": "애슐리퀸즈",
-      "location": "A동, 2F 데카트론",
+      "location": "A동, 2F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 1,
+      "name": "엉클인더키친, 베이글로그",
+      "location": "C동 지하1,2층",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -352,6 +328,12 @@ const data = {
     },
     {
       "category": 1,
+      "name": "캡틴루이",
+      "location": "C동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 1,
       "name": "플래터7",
       "location": "C동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -367,7 +349,7 @@ const data = {
     {
       "category": 2,
       "name": "마라공방",
-      "location": "A동, 2F 데카트론",
+      "location": "A동, 2F 애슐리",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -386,12 +368,6 @@ const data = {
       "category": 2,
       "name": "샤오바오 우육면",
       "location": "C동, B2",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 2,
-      "name": "실크로드",
-      "location": "B동, 2F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -459,7 +435,7 @@ const data = {
     {
       "category": 3,
       "name": "저스트텐동",
-      "location": "A동, 2F 데카트론",
+      "location": "A동, 2F 애슐리",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -489,7 +465,7 @@ const data = {
     {
       "category": 3,
       "name": "후라토식당",
-      "location": "A동, 2F 데카트론",
+      "location": "A동, 2F 애슐리",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -580,6 +556,12 @@ const data = {
     },
     {
       "category": 4,
+      "name": "브레댄코",
+      "location": "B동 , 1F",
+      "hours": "오전 08:30 ~ 오후 10:00"
+    },
+    {
+      "category": 4,
       "name": "브알라",
       "location": "C동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -619,12 +601,6 @@ const data = {
       "name": "컴포즈커피",
       "location": "D동, B1",
       "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 4,
-      "name": "테이블비",
-      "location": "C동, B2",
-      "hours": "오전 10:30 ~ 오후 10:30"
     },
     {
       "category": 4,

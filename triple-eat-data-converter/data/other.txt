@@ -55,6 +55,10 @@ Coupon Image
 A동, B2
 오전 10:30 ~ 오후 10:00
 Coupon Image
+브레댄코
+B동 , 1F
+오전 08:30 ~ 오후 10:00
+Coupon Image
 브알라
 C동, B2
 오전 10:30 ~ 오후 10:00
@@ -82,10 +86,6 @@ Coupon Image
 컴포즈커피
 D동, B1
 오전 10:30 ~ 오후 10:00
-Coupon Image
-테이블비
-C동, B2
-오전 10:30 ~ 오후 10:30
 Coupon Image
 투썸플레이스
 B동, 1F/2F

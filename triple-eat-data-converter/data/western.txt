@@ -31,10 +31,6 @@ Coupon Image
 B동, B3
 오전 10:30 ~ 오후 10:00
 Coupon Image
-뱅루즈
-C동, 2F
-오전 10:30 ~ 익일 02:00
-Coupon Image
 버커스프롬오스틴
 D동, 1F
 오전 10:30 ~ 오후 10:00
@@ -52,7 +48,11 @@ B동, 1F/2F
 오전 10:30 ~ 오후 10:00
 Coupon Image
 애슐리퀸즈
-A동, 2F 데카트론
+A동, 2F
+오전 10:30 ~ 오후 10:00
+Coupon Image
+엉클인더키친, 베이글로그
+C동 지하1,2층
 오전 10:30 ~ 오후 10:00
 Coupon Image
 예향정
@@ -73,6 +73,10 @@ B동, B3
 Coupon Image
 치즈웨이브
 B동, 1F
+오전 10:30 ~ 오후 10:00
+Coupon Image
+캡틴루이
+C동, 1F
 오전 10:30 ~ 오후 10:00
 Coupon Image
 플래터7
