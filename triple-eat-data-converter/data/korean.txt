@@ -19,6 +19,10 @@ Coupon Image
 C동, 1F
 오전 10:30 ~ 익일 02:00
 Coupon Image
+단막
+D동, 1F
+오전 10:30 ~ 오후 10:00
+Coupon Image
 단토리
 C동, 1F
 오후 03:30 ~ 익일 02:00
@@ -71,6 +75,10 @@ Coupon Image
 A동, 2F 애슐리
 오전 10:30 ~ 오후 10:00
 Coupon Image
+샤브보트
+D동, B1
+오전 10:30 ~ 오후 10:00
+Coupon Image
 솥고집
 D동, 1F
 오전 11:30 ~ 익일 02:00
@@ -99,6 +107,10 @@ Coupon Image
 C동, B2
 오전 10:30 ~ 오후 10:00
 Coupon Image
+우이락
+C동, 1F
+오전 10:30 ~ 오후 10:00
+Coupon Image
 우정소갈비
 C동, 1F
 오전 10:30 ~ 오후 10:00
@@ -122,10 +134,6 @@ Coupon Image
 참피온삼겹살
 B동, 2F
 오전 10:30 ~ 오후 11:00
-Coupon Image
-팔각도
-D동, 1F
-오후 03:00 ~ 익일 02:00
 Coupon Image
 포플러스쌀국수
 C동, B2

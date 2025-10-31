@@ -26,6 +26,12 @@ const data = {
     },
     {
       "category": 0,
+      "name": "단막",
+      "location": "D동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
       "name": "단토리",
       "location": "C동, 1F",
       "hours": "오후 03:30 ~ 익일 02:00"
@@ -104,6 +110,12 @@ const data = {
     },
     {
       "category": 0,
+      "name": "샤브보트",
+      "location": "D동, B1",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
       "name": "솥고집",
       "location": "D동, 1F",
       "hours": "오전 11:30 ~ 익일 02:00"
@@ -146,6 +158,12 @@ const data = {
     },
     {
       "category": 0,
+      "name": "우이락",
+      "location": "C동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
       "name": "우정소갈비",
       "location": "C동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -179,12 +197,6 @@ const data = {
       "name": "참피온삼겹살",
       "location": "B동, 2F",
       "hours": "오전 10:30 ~ 오후 11:00"
-    },
-    {
-      "category": 0,
-      "name": "팔각도",
-      "location": "D동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
     },
     {
       "category": 0,
