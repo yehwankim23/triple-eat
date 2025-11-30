@@ -256,6 +256,12 @@ const data = {
     },
     {
       "category": 1,
+      "name": "마초스테이크",
+      "location": "C동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 1,
       "name": "머노까머나",
       "location": "C동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -576,6 +582,12 @@ const data = {
       "category": 4,
       "name": "브알라",
       "location": "C동, B2",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 4,
+      "name": "빙동댕",
+      "location": "B동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
