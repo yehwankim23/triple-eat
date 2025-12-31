@@ -47,6 +47,10 @@ Coupon Image
 C동, B2
 오전 10:30 ~ 오후 10:00
 Coupon Image
+무궁
+C동, 1F
+오전 10:30 ~ 오후 10:00
+Coupon Image
 무지개맥주
 C동, 1F
 오후 03:00 ~ 익일 02:00
@@ -77,6 +81,10 @@ A동, 2F 애슐리
 Coupon Image
 샤브보트
 D동, B1
+오전 10:30 ~ 오후 10:00
+Coupon Image
+선미한우샤브샤브
+C동, 2F
 오전 10:30 ~ 오후 10:00
 Coupon Image
 솥고집

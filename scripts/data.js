@@ -68,6 +68,12 @@ const data = {
     },
     {
       "category": 0,
+      "name": "무궁",
+      "location": "C동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
       "name": "무지개맥주",
       "location": "C동, 1F",
       "hours": "오후 03:00 ~ 익일 02:00"
@@ -112,6 +118,12 @@ const data = {
       "category": 0,
       "name": "샤브보트",
       "location": "D동, B1",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
+      "name": "선미한우샤브샤브",
+      "location": "C동, 2F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -402,12 +414,6 @@ const data = {
     },
     {
       "category": 2,
-      "name": "천사곱창",
-      "location": "C동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
-    },
-    {
-      "category": 2,
       "name": "화화쿵주마라탕",
       "location": "C동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -464,6 +470,12 @@ const data = {
     },
     {
       "category": 3,
+      "name": "치히로",
+      "location": "C동, B2",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 3,
       "name": "코코로벤또",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -484,12 +496,6 @@ const data = {
       "category": 3,
       "name": "후라토식당",
       "location": "A동, 2F 애슐리",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 3,
-      "name": "히노아지",
-      "location": "C동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
     }
   ],
@@ -612,6 +618,12 @@ const data = {
       "category": 4,
       "name": "올드페리도넛",
       "location": "A동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 4,
+      "name": "커스텀커피",
+      "location": "D동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {

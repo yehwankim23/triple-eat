@@ -83,6 +83,10 @@ Coupon Image
 A동, 1F
 오전 10:30 ~ 오후 10:00
 Coupon Image
+커스텀커피
+D동, 1F
+오전 10:30 ~ 오후 10:00
+Coupon Image
 커피빈
 D동, 1F/2F
 오전 10:30 ~ 오후 10:00
