@@ -340,12 +340,6 @@ const data = {
     },
     {
       "category": 1,
-      "name": "웨스턴 스토리",
-      "location": "C동, 2F",
-      "hours": "오후 03:00 ~ 익일 02:00"
-    },
-    {
-      "category": 1,
       "name": "정씨함박",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -442,12 +436,6 @@ const data = {
       "category": 3,
       "name": "시월십일",
       "location": "D동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 3,
-      "name": "아비꼬",
-      "location": "C동, B2",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
