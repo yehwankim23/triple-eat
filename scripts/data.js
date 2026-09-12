@@ -26,6 +26,12 @@ const data = {
     },
     {
       "category": 0,
+      "name": "다올앤펍",
+      "location": "C동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
       "name": "단막",
       "location": "D동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -35,12 +41,6 @@ const data = {
       "name": "단토리",
       "location": "C동, 1F",
       "hours": "오후 03:30 ~ 익일 02:00"
-    },
-    {
-      "category": 0,
-      "name": "달래해장",
-      "location": "D동 1층",
-      "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
       "category": 0,
@@ -64,6 +64,12 @@ const data = {
       "category": 0,
       "name": "명동칼국수",
       "location": "C동, B2",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 0,
+      "name": "명인갈비",
+      "location": "C동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -128,15 +134,15 @@ const data = {
     },
     {
       "category": 0,
-      "name": "솥고집",
+      "name": "손정보쌈",
       "location": "D동, 1F",
-      "hours": "오전 11:30 ~ 익일 02:00"
+      "hours": "오전 11:00 ~ 오후 11:00"
     },
     {
       "category": 0,
-      "name": "술판",
+      "name": "솥고집",
       "location": "D동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
+      "hours": "오전 11:30 ~ 익일 02:00"
     },
     {
       "category": 0,
@@ -176,12 +182,6 @@ const data = {
     },
     {
       "category": 0,
-      "name": "우정소갈비",
-      "location": "C동, 1F",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 0,
       "name": "유가네닭갈비",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -194,9 +194,9 @@ const data = {
     },
     {
       "category": 0,
-      "name": "조명탄",
-      "location": "C동, 1F",
-      "hours": "오후 03:00 ~ 익일 02:00"
+      "name": "정희",
+      "location": "C동, B2",
+      "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
       "category": 0,
@@ -328,6 +328,12 @@ const data = {
     },
     {
       "category": 1,
+      "name": "에이직피자",
+      "location": "B동, 1F",
+      "hours": "오전 10:30 ~ 오후 10:00"
+    },
+    {
+      "category": 1,
       "name": "예향정",
       "location": "B동, B3",
       "hours": "오전 10:30 ~ 오후 10:00"
@@ -342,12 +348,6 @@ const data = {
       "category": 1,
       "name": "정씨함박",
       "location": "B동, B3",
-      "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 1,
-      "name": "치즈웨이브",
-      "location": "B동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -385,7 +385,7 @@ const data = {
     {
       "category": 2,
       "name": "상상첨",
-      "location": "C동, 2F",
+      "location": "D동 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
     },
     {
@@ -517,12 +517,6 @@ const data = {
       "name": "그라츠커피랩",
       "location": "B동, 1F",
       "hours": "오전 10:30 ~ 오후 10:00"
-    },
-    {
-      "category": 4,
-      "name": "깐부치킨",
-      "location": "C동, 2F",
-      "hours": "오전 10:30 ~ 익일 02:00"
     },
     {
       "category": 4,

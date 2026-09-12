@@ -59,6 +59,10 @@ Coupon Image
 C동 지하1,2층
 오전 10:30 ~ 오후 10:00
 Coupon Image
+에이직피자
+B동, 1F
+오전 10:30 ~ 오후 10:00
+Coupon Image
 예향정
 B동, B3
 오전 10:30 ~ 오후 10:00
@@ -69,10 +73,6 @@ D동, 1F
 Coupon Image
 정씨함박
 B동, B3
-오전 10:30 ~ 오후 10:00
-Coupon Image
-치즈웨이브
-B동, 1F
 오전 10:30 ~ 오후 10:00
 Coupon Image
 캡틴루이
